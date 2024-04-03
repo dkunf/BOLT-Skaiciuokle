@@ -30,6 +30,7 @@ Programėlės veikimui internetas nereikalingas.
 `);
 
 //čia kelias į folderį su ataskaitom.Butinai turi baigtis su '/'
+//jeigu šis failas yra kartu su ataskaitom, tai nieko čia keisti nereikia
 const folderName = "./";
 
 const fieldsOfInterest = [
